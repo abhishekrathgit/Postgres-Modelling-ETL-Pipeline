@@ -12,7 +12,7 @@ The purpose of the project is
 
 Below image shows the Star Schema for the Sparkify database
 
-![Sparkify Star Schema](https://github.com/abhishekrathgit/Postgres-Modelling-ETL-Pipeline/blob/main/Sparify%20Postgres%20Database%20Star%20Schema.JPG "Sparkify Star Schema")
+![Sparkify Star Schema](https://github.com/abhishekrathgit/Postgres-Modelling-ETL-Pipeline/blob/main/Sparkify%20Postgres%20Database%20Star%20Schema.JPG "Sparkify Star Schema")
 
 >Note:
  - Sparkify Postgres Database Star Schema.JPG is in the same repository with all other .py files
